@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/09556711-eef6-47ba-adcb-29559043f041" 
        alt="Shashivardhan" 
-       width="600" />
+       width="900" />
 </p>
 
 
