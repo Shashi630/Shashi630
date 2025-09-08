@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shashivardhan</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09556711-eef6-47ba-adcb-29559043f041" 
+       alt="Shashivardhan" 
+       width="600" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashi630&label=Profile%20views&color=0e75b6&style=flat" alt="shashi630" />
