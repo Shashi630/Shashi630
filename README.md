@@ -80,7 +80,7 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
 </p>
 
-#### 🎮 Game / Other Technologies
+#### 🎮 Video Game Engine
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
 </p>
@@ -112,15 +112,11 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <b>Feel free to reach out for collaborations, project discussions, or professional opportunities:</b>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/shashivardhan-b-814984188/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:shashivardhan.dev@example.com" target="_blank">
+  <a href="mailto:shashivardhanbheem@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="30" width="40"/>
   </a>
 </p>
