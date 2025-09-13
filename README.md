@@ -95,7 +95,7 @@
 ### 📊 GitHub Stats – Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi630&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi630&layout=compact&theme=default" alt="Top Languages"/>
 </p>
 
 ---
